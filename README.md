@@ -1,4 +1,4 @@
-# Learning how to learn - Assignment 2
+# Learning how to learn - Assignment 2 #
 
 **Summary**
 
