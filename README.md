@@ -3,10 +3,15 @@
 **Summary**
 
 In this work I will discuss about some learning techniques that I have found the most useful during the course to attain my personal goals of being a life-long learning math related subjects.
-I will discuss the following topics:
+
+I will discuss my personal experience with the following topics:
+
 . Illusions of learning
+
 . Sleep
+
 . Procrastination
+
 
 Focused and diffuse modes of thinking.
 Key techniques proven by research to help students learn most efficiently
