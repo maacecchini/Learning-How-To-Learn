@@ -2,7 +2,7 @@
 
 **Summary**
 
-In this work I will discuss about some learning techniques that I have found the most useful during the course to attain my personal goals of being a life-long learning math related subjects.
+In this work I will discuss about some learning techniques that I have found the most useful during the course to attain my personal goals of being a life-long learner of math or non-math related subjects.
 
 I will discuss my personal experience with the following topics:
 
