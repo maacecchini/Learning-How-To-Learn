@@ -16,7 +16,7 @@ Another effect of procrastination are extra-time during the weekends. As you can
 
 *To do lists, multi-task avoiding*. One of the most useful techniques I have found to avoid procrastination, and if you are interrupted for any reason, this eases your return to concentration are to-do lists. This also have the advantage to put your brain at work in diffuse mode finding solutions for things that will be required in the near future. This is why some of the most effective teams in my company uses the [critical chain](http://www.goldratt.co.uk/resources/critical_chain/) program management method developed by Dr Eli Goldratt  together with [scrum](https://www.scrum.org/resources/what-is-scrum/) based techniques for execution. Using these techniques you divide your huge job in small pieces, that build over other small pieces already built. You do a weekly session for checking results and planning small tasks for the next week and on. In this way you dont became blocked or afraid to start a big and complex project such as a new aircraft design or a complex software implementation. This is exactly the same technique found in reference Boice, R. (1996). Procrastination and blocking: A novel, practical approach. Westport, CT: Praeger, concerning dividing a write project in [small chunks](http://www.academiccoachingandwriting.org/academic-writing/academic-writing-blog/vii-chunk-your-writing-project-into-small-assignments/) which is exactly what I am doing in this project.
 
-###2- Interleaving, Sleeping, Rest and Sports###
+###2- Interleaving, Sleeping, Resting and Sports###
 
 I will discuss these topics together since, in my opinion, they are closely related, so as the sports practice as shown by Dr Terrence Sejnowski in the lectures. In my opinion these activities have something in common: they put your brain working in diffuse mode. 
 
@@ -26,24 +26,10 @@ Thomas Edison and Salvador Dali used a similar approach to enhancing their creat
 
 Also, walking, or jogging, besides being an excellent fittness exercise, puts your brain in the diffused mode.
 
+##3 - Learning independently and life-long learning##
 
+My motivation for pursuing this course "Learning How to Learn" was that I have tried to learn Quantum Mechanics as the basis for a Physics of Solar Cells Coursera course. I have faced tremendous difficulties because I have never learned QM in my graduation as engineer. Although the math level was not so high, very good teachers giving visualisation examples to explain the concepts, I have abandoned the course. This never happened to me before, so I decided that I should use new methods of learning.
 
+In "Learning How to Learn", I have been introduced in an organized way to many concepts that I was already aware by another readings, or even intuitively by life experience. The course have shown extraordinary scientific evidences for every concept, so it is easy to believe.
 
-Focused and diffuse modes of thinking.
-Key techniques proven by research to help students learn most efficiently
-Illusions of learning
-Memory
-Chunking
-Sleep
-Metaphor, story, and visualization in learning
-Transfer of ideas and concepts from one area to another
-Deliberate practice
-Interleaving
-Procrastination
-Testing
-Mindset
-Working with others in learning
-Cultural similarities and differences in learning
-Life-long learning and broadening your passions
-Learning independently
-
+MAAC Sao Paulo 26/Janeiro/2015
